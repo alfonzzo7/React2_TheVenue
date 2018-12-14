@@ -45,7 +45,8 @@ const VenueInfo = () => {
                                             Event Location
                                         </div>
                                         <div className="vn_desc">
-                                            Palacio de los deportes
+                                            WiZink Center
+                                            <br/>Av. Felipe II
                                         </div>                            
                                     </div>
                                 </div>

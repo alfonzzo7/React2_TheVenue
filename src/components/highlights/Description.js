@@ -5,6 +5,7 @@ const Description = () => {
     return (
         <Fade>
             <div className="center_wrapper">
+                <span>&nbsp;</span>
                 <h2>Hightlights</h2>
                 <div className="highlight_description">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid explicabo earum doloribus perferendis, blanditiis labore atque itaque, facilis voluptatem deleniti nesciunt iste suscipit cupiditate aliquam rem aspernatur maiores, accusamus esse!
